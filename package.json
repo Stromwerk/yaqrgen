@@ -1,0 +1,12 @@
+{
+  "name": "qrgen",
+  "version": "0.0.1",
+  "description": "Webage for generating QR codes",
+  "main": "index.js",
+  "author": "Tokelin",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "qrcode-generator": "^1.4.4"
+  }
+}
